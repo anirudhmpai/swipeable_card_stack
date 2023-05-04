@@ -67,3 +67,4 @@ Use the `SwipeableCardsSection` widget provided by the package
 - Contact us on **Website**: [**codetoart**](http://www.codetoart.com)
 # swipeable_card_stack
 # swipeable_card_stack
+# swipeable_card_stack
